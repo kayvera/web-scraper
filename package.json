@@ -1,0 +1,22 @@
+{
+  "name": "code_challenge_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "node crawler.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

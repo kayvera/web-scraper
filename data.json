@@ -1,0 +1,164 @@
+{
+    "sites": [
+        {
+            "url": "http://books.toscrape.com"
+        },
+        {
+            "url": "http://quotes.toscrape.com",
+            "links": [
+                "http://quotes.toscrape.com/",
+                "http://quotes.toscrape.com/login",
+                "http://quotes.toscrape.com/author/Albert-Einstein",
+                "http://quotes.toscrape.com/tag/change/page/1/",
+                "http://quotes.toscrape.com/tag/deep-thoughts/page/1/",
+                "http://quotes.toscrape.com/tag/thinking/page/1/",
+                "http://quotes.toscrape.com/tag/world/page/1/",
+                "http://quotes.toscrape.com/author/J-K-Rowling",
+                "http://quotes.toscrape.com/tag/abilities/page/1/",
+                "http://quotes.toscrape.com/tag/choices/page/1/",
+                "http://quotes.toscrape.com/author/Albert-Einstein",
+                "http://quotes.toscrape.com/tag/inspirational/page/1/",
+                "http://quotes.toscrape.com/tag/life/page/1/",
+                "http://quotes.toscrape.com/tag/live/page/1/",
+                "http://quotes.toscrape.com/tag/miracle/page/1/",
+                "http://quotes.toscrape.com/tag/miracles/page/1/",
+                "http://quotes.toscrape.com/author/Jane-Austen",
+                "http://quotes.toscrape.com/tag/aliteracy/page/1/",
+                "http://quotes.toscrape.com/tag/books/page/1/",
+                "http://quotes.toscrape.com/tag/classic/page/1/",
+                "http://quotes.toscrape.com/tag/humor/page/1/",
+                "http://quotes.toscrape.com/author/Marilyn-Monroe",
+                "http://quotes.toscrape.com/tag/be-yourself/page/1/",
+                "http://quotes.toscrape.com/tag/inspirational/page/1/",
+                "http://quotes.toscrape.com/author/Albert-Einstein",
+                "http://quotes.toscrape.com/tag/adulthood/page/1/",
+                "http://quotes.toscrape.com/tag/success/page/1/",
+                "http://quotes.toscrape.com/tag/value/page/1/",
+                "http://quotes.toscrape.com/author/Andre-Gide",
+                "http://quotes.toscrape.com/tag/life/page/1/",
+                "http://quotes.toscrape.com/tag/love/page/1/",
+                "http://quotes.toscrape.com/author/Thomas-A-Edison",
+                "http://quotes.toscrape.com/tag/edison/page/1/",
+                "http://quotes.toscrape.com/tag/failure/page/1/",
+                "http://quotes.toscrape.com/tag/inspirational/page/1/",
+                "http://quotes.toscrape.com/tag/paraphrased/page/1/",
+                "http://quotes.toscrape.com/author/Eleanor-Roosevelt",
+                "http://quotes.toscrape.com/tag/misattributed-eleanor-roosevelt/page/1/",
+                "http://quotes.toscrape.com/author/Steve-Martin",
+                "http://quotes.toscrape.com/tag/humor/page/1/",
+                "http://quotes.toscrape.com/tag/obvious/page/1/",
+                "http://quotes.toscrape.com/tag/simile/page/1/",
+                "http://quotes.toscrape.com/page/2/",
+                "http://quotes.toscrape.com/tag/love/",
+                "http://quotes.toscrape.com/tag/inspirational/",
+                "http://quotes.toscrape.com/tag/life/",
+                "http://quotes.toscrape.com/tag/humor/",
+                "http://quotes.toscrape.com/tag/books/",
+                "http://quotes.toscrape.com/tag/reading/",
+                "http://quotes.toscrape.com/tag/friendship/",
+                "http://quotes.toscrape.com/tag/friends/",
+                "http://quotes.toscrape.com/tag/truth/",
+                "http://quotes.toscrape.com/tag/simile/"
+            ]
+        },
+        {
+            "url": "http://quotes.toscrape.com/scroll",
+            "links": [
+                "http://quotes.toscrape.com/scroll/",
+                "http://quotes.toscrape.com/scroll/login"
+            ]
+        },
+        {
+            "url": "http://quotes.toscrape.com/js",
+            "links": [
+                "http://quotes.toscrape.com/js/",
+                "http://quotes.toscrape.com/js/login",
+                "http://quotes.toscrape.com/js/js/page/2/"
+            ]
+        },
+        {
+            "url": "http://quotes.toscrape.com/js-delayed",
+            "links": [
+                "http://quotes.toscrape.com/js-delayed/",
+                "http://quotes.toscrape.com/js-delayed/login",
+                "http://quotes.toscrape.com/js-delayed/js-delayed/page/2/"
+            ]
+        },
+        {
+            "url": "http://quotes.toscrape.com/tableful",
+            "links": [
+                "http://quotes.toscrape.com/tableful/",
+                "http://quotes.toscrape.com/tableful/login",
+                "http://quotes.toscrape.com/tableful/tableful/tag/love/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/inspirational/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/life/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/humor/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/books/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/reading/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/friendship/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/friends/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/truth/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/simile/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/change/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/deep-thoughts/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/thinking/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/world/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/abilities/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/choices/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/inspirational/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/life/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/live/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/miracle/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/miracles/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/aliteracy/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/books/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/classic/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/humor/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/be-yourself/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/inspirational/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/adulthood/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/success/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/value/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/life/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/love/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/edison/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/failure/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/inspirational/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/paraphrased/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/misattributed-eleanor-roosevelt/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/humor/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/obvious/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/tag/simile/page/1/",
+                "http://quotes.toscrape.com/tableful/tableful/page/2/"
+            ]
+        },
+        {
+            "url": "http://quotes.toscrape.com/login",
+            "links": [
+                "http://quotes.toscrape.com/login/",
+                "http://quotes.toscrape.com/login/login"
+            ]
+        },
+        {
+            "url": "http://quotes.toscrape.com/search.aspx",
+            "links": [
+                "http://quotes.toscrape.com/search.aspx/",
+                "http://quotes.toscrape.com/search.aspx/login"
+            ]
+        },
+        {
+            "url": "http://quotes.toscrape.com/random",
+            "links": [
+                "http://quotes.toscrape.com/random/",
+                "http://quotes.toscrape.com/random/login",
+                "http://quotes.toscrape.com/random/author/George-Carlin",
+                "http://quotes.toscrape.com/random/tag/humor/page/1/",
+                "http://quotes.toscrape.com/random/tag/insanity/page/1/",
+                "http://quotes.toscrape.com/random/tag/lies/page/1/",
+                "http://quotes.toscrape.com/random/tag/lying/page/1/",
+                "http://quotes.toscrape.com/random/tag/self-indulgence/page/1/",
+                "http://quotes.toscrape.com/random/tag/truth/page/1/"
+            ]
+        }
+    ]
+}

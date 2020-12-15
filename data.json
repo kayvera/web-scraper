@@ -151,13 +151,12 @@
             "links": [
                 "http://quotes.toscrape.com/random/",
                 "http://quotes.toscrape.com/random/login",
-                "http://quotes.toscrape.com/random/author/George-Carlin",
-                "http://quotes.toscrape.com/random/tag/humor/page/1/",
-                "http://quotes.toscrape.com/random/tag/insanity/page/1/",
-                "http://quotes.toscrape.com/random/tag/lies/page/1/",
-                "http://quotes.toscrape.com/random/tag/lying/page/1/",
-                "http://quotes.toscrape.com/random/tag/self-indulgence/page/1/",
-                "http://quotes.toscrape.com/random/tag/truth/page/1/"
+                "http://quotes.toscrape.com/random/author/Mark-Twain",
+                "http://quotes.toscrape.com/random/tag/books/page/1/",
+                "http://quotes.toscrape.com/random/tag/contentment/page/1/",
+                "http://quotes.toscrape.com/random/tag/friends/page/1/",
+                "http://quotes.toscrape.com/random/tag/friendship/page/1/",
+                "http://quotes.toscrape.com/random/tag/life/page/1/"
             ]
         }
     ]

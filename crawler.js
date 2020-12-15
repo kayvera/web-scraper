@@ -9,8 +9,8 @@ const readline = require('readline').createInterface({
 });
 
 // allow user to input a url and then validate url
-const requestSiteURL = async function () {
-  let url = await new Promise((resolve) => {
+const requestSiteURL = async function (url) {
+  url = await new Promise((resolve) => {
     readline.question('Please type url: ', resolve);
   });
   let URL = 'https://toscrape.com/';
@@ -19,6 +19,7 @@ const requestSiteURL = async function () {
     return url;
   } else if (url.toLowerCase() === 'no') {
     url = URL;
+    readline.close();
     return url;
   } else {
     console.log(
@@ -27,6 +28,8 @@ const requestSiteURL = async function () {
     return requestSiteURL();
   }
 };
+
+requestSiteURL();
 
 // grabs all urls from original link and returns array
 const getURLS = async () => {
@@ -137,4 +140,6 @@ function uniqueLinkChecker(url, arr, baseURL) {
   }
 }
 
-exportResults();
+//exportResults();
+
+module.exports.requestSiteURL = requestSiteURL;
